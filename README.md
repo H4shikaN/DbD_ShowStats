@@ -5,7 +5,9 @@
 # ツールの内容
 キラーの戦績と世界ランキングを表示してくれるツールです。  
 ナースでブリンク攻撃をした回数やブライトで突進攻撃を当てた回数など。  
-（※[DbDstats](https://dbd.tricky.lol/)で見られるキラーの戦績に限る。）　　
+（※[DbDstats](https://dbd.tricky.lol/)で見られるキラーの戦績に限る。）　
+![image](https://user-images.githubusercontent.com/109508477/213409206-3e9264b0-28b6-4e3c-a5b5-f430bc3e2f76.png)
+
 ##### 例）ハントレス：斧を当てた回数 -> 136959回（38位）  
 
 
